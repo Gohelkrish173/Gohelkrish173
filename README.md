@@ -41,4 +41,8 @@
 ![Krish's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gohelkrish173&theme=algolia)
 
 ---
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gohelkrish173&theme=algolia&no-frame=true&margin-w=10)
+
+---
 ✨ _“Code is like tailoring, every project is a design stitched with logic.”_
