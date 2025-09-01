@@ -28,6 +28,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -35,14 +39,6 @@
 ![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gohelkrish173&show_icons=true&theme=algolia)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gohelkrish173&layout=compact&theme=algolia)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gohelkrish173&theme=algolia&hide_border=false)  
-
----
-## Graph
-![Krish's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gohelkrish173&theme=algolia)
-
----
-## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gohelkrish173&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 ✨ _“Code is like tailoring, every project is a design stitched with logic.”_
