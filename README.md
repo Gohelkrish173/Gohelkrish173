@@ -2,7 +2,7 @@
 
 🚀 Web Developer || App Developer
 
-- 💻 Passionate about **MERN Stack, Flutter, .NET **  
+- 💻 Passionate about **MERN Stack, Flutter, .NET**  
 - 🎯 Always exploring new technologies and building real-world solutions  
 - 📧 Reach me at: **krishgohel173@gmail.com**  
 - ⚡ Fun fact: "Coding is like tailoring — every bug is just a misfit stitch to be fixed."  
