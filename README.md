@@ -34,11 +34,4 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gohelkrish173&show_icons=true&theme=algolia)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gohelkrish173&layout=compact&theme=algolia)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Gohelkrish173&theme=algolia&hide_border=false)  
-
----
 ✨ _“Code is like tailoring, every project is a design stitched with logic.”_
