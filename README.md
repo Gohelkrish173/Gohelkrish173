@@ -1,8 +1,8 @@
 # Hi there, I'm Krish 👋  
 
-🚀 Web Developer || App Developer
+🚀 Full Stack Developer || Application Developer
 
-- 💻 Passionate about **MERN Stack, Flutter, .NET**  
+- 💻 Passionate about **.NET Core,Flutter,MERN Stack**  
 - 🎯 Always exploring new technologies and building real-world solutions  
 - 📧 Reach me at: **krishgohel173@gmail.com**  
 - ⚡ Fun fact: "Coding is like tailoring — every bug is just a misfit stitch to be fixed."  
@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ Technology Discovered:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaCore](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
